@@ -102,10 +102,10 @@ Berikut adalah alur kerja dan operasional aplikasi dari awal dijalankan hingga p
 
 ## Dokumentasi
 ### Add
-<img src="Dokumentasi/Add.gif" width="700" alt="Deskripsi GIF">
+<img src="Dokumentasi/Add.gif" width="700">
 
 ### Update
-<img src="Dokumentasi/Updatev2.gif" width="700" alt="Deskripsi GIF">
+<img src="Dokumentasi/Updatev2.gif" width="700">
 
 ### Delete
-<img src="Dokumentasi/Delete.gif" width="700" alt="Deskripsi GIF">
+<img src="Dokumentasi/Delete.gif" width="700">
